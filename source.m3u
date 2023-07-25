@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.
+
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1047/bc/bc06fb8973906c9c1292df49a49a18_180_135.jpg" group-title="炉石传说", 安德罗妮丶
+http://live.aptvapp.com/live/huya/528300
